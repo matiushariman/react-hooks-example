@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-hooks-example/static/css/main.14936fef.chunk.css",
+    "main.js": "/react-hooks-example/static/js/main.c776fdfb.chunk.js",
+    "main.js.map": "/react-hooks-example/static/js/main.c776fdfb.chunk.js.map",
+    "runtime~main.js": "/react-hooks-example/static/js/runtime~main.a9e0d72b.js",
+    "runtime~main.js.map": "/react-hooks-example/static/js/runtime~main.a9e0d72b.js.map",
+    "static/js/2.4a313aef.chunk.js": "/react-hooks-example/static/js/2.4a313aef.chunk.js",
+    "static/js/2.4a313aef.chunk.js.map": "/react-hooks-example/static/js/2.4a313aef.chunk.js.map",
+    "index.html": "/react-hooks-example/index.html",
+    "precache-manifest.800f5884df1c89d1ada9200360a628c5.js": "/react-hooks-example/precache-manifest.800f5884df1c89d1ada9200360a628c5.js",
+    "service-worker.js": "/react-hooks-example/service-worker.js",
+    "static/css/main.14936fef.chunk.css.map": "/react-hooks-example/static/css/main.14936fef.chunk.css.map",
+    "static/media/logo.svg": "/react-hooks-example/static/media/logo.5d5d9eef.svg"
+  }
+}
